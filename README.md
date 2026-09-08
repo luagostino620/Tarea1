@@ -1,22 +1,13 @@
-Hecho por Lucia Agostino
+Autor: Lucia Agostino
 
-Título de la galería:Colección Ilustrada de Harry Potter
+Titulo de la galería: Galeria de Libros de Harry Potter
 
-Mi tema elegido fue la saga de libros de Harry Potter
+Objetivo: Proyecto realizado para presentar una colección personal de libros de Harry Potter. Cada página incluye fotografías, información sobre la historia y datos de las distintas ediciones.
 
-Descripción
+Contenido: Sitio que presenta la colección completa a través de fotografías de sus distintas ediciones. Los usuarios podrán navegar desde La piedra filosofal hasta Las reliquias de la muerte, ademas de incluir obras complementarias como El legado maldito y Quidditch a través de los tiempos, y el enlace al sitio oficial de Harry Potter.
 
-Este proyecto es una galería web personal sobre una colección de libros de Harry Potter. Incluye información general, fotografías de los ejemplares y enlaces para recorrer las distintas páginas de la saga.
+Decisiones de diseño: Para el diseño visual de mi sitio web elegí una paleta de colores y tipografías que acompañan la temática del proyecto:
 
-Decisiones de diseño
+- Paleta de Colores: Para el encabezado y el pie de página elegí un azul petróleo, En el fondo general utilicé blanco. El texto principal está en negro casi puro para garantizar una lectura clara y cómoda, mientras que para los enlaces seleccioné un verde azulado oscuro que cambia a un tono mostaza al pasar el cursor para marcar la interacción.
 
-Colores: Se eligió un fondo gris claro para facilitar la lectura, combinado con azul petróleo en el encabezado y el pie de página. El texto oscuro mejora el contraste y los detalles dorados de los enlaces recuerdan la estética mágica de la saga.
-Tipografía: Se utilizó Cinzel, una tipografía serif de estilo clásico. Sus formas elegantes se relacionan con el carácter literario, antiguo y fantástico de la galería.
-Relación con el tema: La combinación de colores sobrios y detalles dorados busca transmitir una atmósfera misteriosa y elegante, inspirada en el mundo mágico de Harry Potter.
-Contenido
-
-Página de inicio con una presentación de la colección.
-Información sobre los libros del 1.º al 7.º de la saga.
-Sección de libros complementarios: Quidditch a través de los tiempos y Harry Potter y el legado maldito.
-Fotografías de los libros y de distintas ediciones.
-Enlace al sitio oficial de Harry Potter
+- Tipografía: Para el texto general y los enlaces opté por la tipografía "Lato", por ser clara, moderna y muy fácil de leer en pantallas. En los títulos utilicé "Cormorant Garamond", una fuente de estilo clásico que evoca la estética tradicional de los libros impresos.
