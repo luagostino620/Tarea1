@@ -10,4 +10,4 @@ Decisiones de diseño: Para el diseño visual de mi sitio web elegí una paleta 
 
 - Paleta de Colores: Para el encabezado y el pie de página elegí un azul petróleo, En el fondo general utilicé blanco. El texto principal está en negro casi puro para garantizar una lectura clara y cómoda, mientras que para los enlaces seleccioné un verde azulado oscuro que cambia a un tono mostaza al pasar el cursor para marcar la interacción.
 
-- Tipografía: Para el texto general y los enlaces opté por la tipografía "Lato", por ser clara, moderna y muy fácil de leer en pantallas. En los títulos utilicé "Cormorant Garamond", una fuente de estilo clásico que evoca la estética tradicional de los libros impresos.
+- Tipografía: Para el texto general y los enlaces opté por la tipografía "Lato", por ser clara, moderna y muy fácil de leer en pantallas. En los títulos utilicé "Cormorant Garamond", una fuente de estilo clásico que refleja la estética tradicional de los libros impresos.
