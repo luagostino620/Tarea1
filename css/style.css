@@ -3,10 +3,6 @@
     box-sizing: border-box;
 }
 
-html {
-    font-size: 100%;
-}
-
 header {
     background-color: #45707b;
     color: #fff;
@@ -14,8 +10,6 @@ header {
     padding: 1rem 5%;
     position: sticky;
     top: 0;
-    left: 0;
-    width: 100%;
     z-index: 1000;
 }
 
@@ -23,14 +17,13 @@ body {
     margin: 0;
     background-color: #f0f0f0;
     color: #0a0a0a;
-    font-family: 'Lato', Arial, sans-serif;
+    font-family: 'Lato', sans-serif;
     line-height: 1.5;
 }
 
 h1,
-h2,
-h3 {
-    font-family: 'Cormorant Garamond', Georgia, serif;
+h2 {
+    font-family: 'Cormorant Garamond'
 }
 
 footer {
@@ -88,34 +81,22 @@ h2 {
 
 .menu {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.7rem;
+    max-width: 24rem;
+    margin: 0 auto;
     padding: 0;
-    margin: 0;
     list-style: none;
 }
 
-.index-page .menu {
-    flex-direction: column;
-    align-items: stretch;
-    max-width: 24rem;
-    margin: 0 auto;
-}
-
-.menu li {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-a,
-li a {
+a {
     color: #223c3c;
     font-size: 1.1rem;
     text-decoration: none;
 }
 
-a:hover,
-li a:hover {
+a:hover {
     color: #847c02;
     text-decoration: underline;
 }
@@ -129,39 +110,17 @@ li a:hover {
     margin-top: 1.25rem;
 }
 
-.libros-contenedor {
-    display: flex;
-    align-items: flex-start;
-    gap: 2rem;
-}
-
-.libro {
-    width: 50%;
-}
-
-.libro .foto {
-    max-width: 100%;
-}
-
 .presentacion,
 .enlaces {
     text-align: center;
     margin-top: 1.25rem;
 }
+
 .presentacion {
     padding: 0.5rem;
     margin-bottom: 50px;
-
 }
 
-.subtitulo {
-    font-size: 1.1rem;
-}
-
-.derechos {
-    font-size: 1rem;
-    margin: 0;
-}
 /* Adaptación */
 @media (max-width: 600px) {
     .index-page header {
@@ -182,27 +141,14 @@ li a:hover {
         font-size: 1.25rem;
     }
 
-    .index-page .menu {
-        gap: 0.7rem;
-    }
-
     .descripcion {
         width: 100%;
         margin-bottom: 1rem;
         font-size: 0.9rem;
     }
 
-    a,
-    li a {
+    a {
         font-size: 0.9rem;
-    }
-
-    .libros-contenedor {
-        flex-direction: column;
-    }
-
-    .libro {
-        width: 100%;
     }
 
     .galeria-fotos .foto {
